@@ -1,0 +1,22 @@
+<root>
+  <annoDiInizio>2018</annoDiInizio>
+  <aula>
+    <nome>14CE</nome>
+    <numeroDiBanchi>20</numeroDiBanchi>
+  </aula>
+  <classe>5b</classe>
+  <numeroFinestre>3</numeroFinestre>
+  <specializzazione>IA</specializzazione>
+  <studenti>
+    <studenti>
+      <annoDiNascita>2003</annoDiNascita>
+      <cognome>Bianchi</cognome>
+      <nome>Tommaso</nome>
+    </studenti>
+    <studenti>
+      <annoDiNascita>2004</annoDiNascita>
+      <cognome>Hu</cognome>
+      <nome>Tommaso</nome>
+    </studenti>
+  </studenti>
+</root>
